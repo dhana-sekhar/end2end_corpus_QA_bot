@@ -1,0 +1,49 @@
+Travel InsuranceCoverage for standard plans
+The standard plans, Classic, Deluxe and Preferred plans do not cover pre-existing medical 
+conditions. 
+Maximum benefit (S$) for each trip 
+Classic Deluxe Preferred
+Per insured 
+personFamily 
+total^Per insured 
+personFamily 
+total^Per insured 
+personFamily 
+total^
+Travel Inconvenience Benefits
+Section 
+1Cancelling your trip
+Overall section limit 5,000 15,000 10,000 30,000 15,000 45,000
+Section 
+2Postponing your trip
+Overall section limit 2,000 6,000 2,000 6,000 2,000 6,000
+Section 
+3Shortening your trip
+15,000 30,000 45,000Overall section limit 5,000 10,000 15,000
+Limit for extra expenses to 
+return to Singapore1,000 2,000 3,000
+Section 
+4Trip disruption
+3,000 6,000 9,000Overall section limit 1,000 2,000 3,000
+Limit for accommodation 
+expenses per room per night400 400 400
+Section 
+5Travel delay
+2,000 3,000 4,000Overall section limit 1,000 1,500 2,000
+For every six hours of delay 
+while overseas
+1. Adult 100 100 100
+2. Child 50 50 50
+After six hours of delay while 
+in Singapore
+1. Adult 150 150 150
+2. Child 50 50 50
+Section 
+6Missed connections 100 1,000 200 2,000 500 5,000
+Section 
+7Overbooked public transport 100 1,000 200 2,000 500 5,000
+Section 
+8If the travel agency becomes 
+insolvent2,000 10,000 3,000 15,000 5,000 25,000
+^ Family total means the maximum amount we will pay for each benefit section under the family cover during any one trip. Each 
+insured person is only allowed the maximum benefit per insured person in the table of cover.

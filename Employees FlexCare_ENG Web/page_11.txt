@@ -1,0 +1,27 @@
+Employees FlexCare
+Annual Premium Rates
+Age last birthday Plan 1 Plan 2 Plan 3 Plan 4 Plan 5
+0 to 30 $163 $98 $65 $52 $33
+31 to 35 $214 $128 $85 $68 $43
+36 to 40 $362 $217 $145 $116 $72
+41 to 45 $576 $346 $230 $184 $115
+46 to 50 $1,063 $638 $425 $340 $213
+51 to 55 $1,988 $1,193 $795 $636 $398
+56 to 60 $2,750 $1,650 $1,100 $880 $550
+61 to 65 $4,625 $2,775 $1,850 $1,480 $925
+66 to 69 $7,521 $4,513 $3,009 $2,407 $1,504
+Note: Premium rates for all main plans and riders are not guarant eed and may be reviewed from time to time. The premiums 
+that you pay are based on the insured’s age last birthday. Premium rates will change when the insured enters a higher age band.
+MAIN PLAN: GROUP PERSONAL ACCIDENT (GPA)
+This plan covers accidental death, permanent disablement due to accident and accidental 
+medical expenses.
+Group Personal Accident (GPA) Plan 1 Plan 2 Plan 3
+Accidental Death $500,000 $300,000 $100,000
+Permanent Disablement $500,000 $300,000 $100,000
+Accidental Medical Expenses $5,000 $4,000 $2,000
+Annual Premium Rates (Premium inclusive of 8% GST)
+Occupational Class Plan 1 Plan 2 Plan 3
+Class 1 $228.96 $137.16 $45.36 
+Class 2 $297.00 $178.20 $59.40 
+Class 3 $442.80 $265.68 $88.56 
+Note: Premium rates for all main plans and riders are not guarant eed and may be reviewed from time to time.
